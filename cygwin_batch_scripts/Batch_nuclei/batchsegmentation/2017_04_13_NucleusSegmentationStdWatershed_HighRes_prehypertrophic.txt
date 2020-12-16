@@ -1,0 +1,8 @@
+--output G:/Labs/EliZelzer/sarahru/Temp/Newest_XPIWIT/Data/S17/m1_mut/distal_tibia/results/
+--input 0, G:/Labs/EliZelzer/sarahru/Analyzed_Data/010617_S17_E16.5_mtmgcol2cregdf5/Distal_Tibia/Segmentation_processed_data_nuclei/Pos13.tif, 3, float
+--xml G:/Labs/EliZelzer/sarahru/Temp/Newest_XPIWIT/XMLPipelines/2017_04_13_NucleusSegmentationStdWatershed_HighRes_prehypertrophic.xml
+--seed 0
+--lockfile off
+--subfolder filterid, filtername
+--outputformat imagename, filtername
+--end
